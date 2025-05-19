@@ -1,9 +1,9 @@
 # Linux-IPC--Pipes
 Linux-IPC-Pipes
 
-Name: GAUTHAM KRISHNA S
+Name: Nanda kishor sp
 
-Regno: 212223240036
+Regno: 212224040210
 
 # Ex03-Linux IPC - Pipes
 
